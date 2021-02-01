@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string-array name="cbOperacionesBasicass">
+            <item>Suma</item>
+            <item>Resta</item>
+            <item>Multiplicacion</item>
+            <item>Division</item>
+            <item>Factorizacion</item>
+            <item>Porcentaje</item>
+            <item>Exponenciacion</item>
+            <item>Raiz cuadrada</item>
+            <item>Raiz cubica</item>
+            <item>Raiz n</item>
+            <item>Modulo(Resto)</item>
+            <item>Mayor de 2 numeros</item>
+    </string-array>
+</resources>
